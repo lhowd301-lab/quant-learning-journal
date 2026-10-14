@@ -1,0 +1,12 @@
+{
+  "as_of": "2026-10-15",
+  "passed_lessons": [
+    "L01",
+    "L02",
+    "L03"
+  ],
+  "current_lesson": "L04",
+  "status": "awaiting_submission",
+  "market_backtests": 0,
+  "teaching_data": "synthetic"
+}
